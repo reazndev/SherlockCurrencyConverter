@@ -1,3 +1,7 @@
+**Kinda redundand since Sherlock has this feature itself but I wanted to reverse engineer it as an extension in order to find out how to make Sherlock extensions so I can make cooler ones in the future**
+
+---
+
 # Sherlock Currency Converter
 
 A currency converter extension for the [Sherlock](https://github.com/Skxxtz/sherlock) application launcher that supports traditional currencies.
