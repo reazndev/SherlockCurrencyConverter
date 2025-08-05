@@ -1,6 +1,6 @@
 # Sherlock Currency Converter
 
-A currency converter extension for the Sherlock application launcher that supports traditional currencies.
+A currency converter extension for the [Sherlock](https://github.com/Skxxtz/sherlock) application launcher that supports traditional currencies.
 
 ## Features
 
